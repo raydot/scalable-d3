@@ -1,0 +1,12 @@
+[
+  { "value": 30, "name": "Akira", "color": "steelblue" },
+  { "value": 86, "name": "Boris", "color": "orange" },
+  { "value": 168, "name": "Carlos", "color": "steelblue" },
+  { "value": 281, "name": "Dinesh", "color": "orange" },
+  { "value": 303, "name": "Elena", "color": "steelblue" },
+  { "value": 365, "name": "Fatima", "color": "orange" },
+  { "value": 405, "name": "Gustavo", "color": "green" },
+  { "value": 420, "name": "Hiroshi", "color": "steelblue" },
+  { "value": 430, "name": "Ibrahim", "color": "green" },
+  { "value": 435, "name": "Jing", "color": "yellow" }
+]
